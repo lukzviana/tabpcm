@@ -1,29 +1,3 @@
 {
-  "settingsReloadIntervalMinutes": 1,
-  "fullscreen": true,
-  "autoStart": false,
-  "lazyLoadTabs": false,
-  "closeExistingTabs": false,
-  "websites": [
-    {
-      "url": "https://app.powerbi.com/vgiiew?r=eyJrIjoiY2UyNGI4N2YtM2YwNC00NjE5LWFhZDUtZmQ1YjhkNGM5ZTY5IiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiY2UyNGI4N2YtM2YwNC00NjE5LWFhZDUtZmQ1YjhkNGM5ZTY5IiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9&pageName=ReportSectionc9676485c46434714dbb",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiM2Q4YTljYzktNDU1Zi00NjZiLWI5NzMtOTZhZThhNDRkOGQxIiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiZTcxOTUyNzItNWQwYi00MGJjLWJkYTUtZTAyMDE4MTM0MTdkIiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9&pageName=ReportSection3a76fe1585960ed0e009",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    }
-  ]
+  
 }
