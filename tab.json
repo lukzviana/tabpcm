@@ -11,6 +11,11 @@
       "tabReloadIntervalSeconds": 15
     },
     {
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNzQwOGIyMzgtZmRmMS00NTgyLTljZjQtYjM0Y2NhMWU4OTNhIiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
       "url": "https://app.powerbi.com/view?r=eyJrIjoiY2UyNGI4N2YtM2YwNC00NjE5LWFhZDUtZmQ1YjhkNGM5ZTY5IiwidCI6IjhmYjljNjMwLTMwZjUtNDQ5MC1iNjQ5LTBiNTRhNjhiNjM2YyJ9&pageName=ReportSectionc9676485c46434714dbb",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
